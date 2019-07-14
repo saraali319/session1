@@ -1,0 +1,14 @@
+Name:sara ali
+Age:18
+Collage:faculty of sciences- ain shams university
+Favorite hoppy:reading
+The purpose of this paragraph is to write a summary about session1.
+There are levels of developers like junior,middle,and senior.
+Salary increases when experience increases.
+We will study level one of web devolopment.
+When we want to search for some thing we start with word how ,and if there are no results try in in another way.
+There is a difference between websites and web applications whereas websites are static 
+,but web applications are dynamic and ever changing.
+Get hub is a system that to our files over time.
+It lets you and others work together on projects from anywhere.
+I really benefited from this session
